@@ -12,4 +12,4 @@
 The full repo is located at: https://github.com/Hezakai/Horiseon-Refactor
 
 ### Live Page
-You can view the live page at: https://hezakai.github.io/Horiseon-Refactor/#social-media-marketing
+You can view the live page at: https://hezakai.github.io/Horiseon-Refactor
